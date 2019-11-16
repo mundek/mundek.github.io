@@ -1,2 +1,2 @@
 # mundek.github.io
-Mundek's static GitHub webiste
+Mundek's static GitHub website
