@@ -1,2 +1,4 @@
 # mundek.github.io
-Mundek's static GitHub webiste
+<h1>Mundek's static GitHub website</h1>
+<p>Nothing to see here yet.</p>
+
