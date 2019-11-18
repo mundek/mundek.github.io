@@ -1,3 +1,3 @@
 # mundek.github.io
 ## Mundek's static GitHub website
-Nothing to see here yet.
+Not a whole lot to see here yet.
